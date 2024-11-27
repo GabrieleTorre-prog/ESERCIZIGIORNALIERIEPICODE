@@ -1,0 +1,2 @@
+# ESERCIZIGIORNALIERIEPICODE
+Esercizi di giornata
